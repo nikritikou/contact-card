@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Niki P. Kritikou
+N:Kritikou;Niki;;;
+ORG:Haris P. Lamaris & Associates
+TITLE:Civil Engineer
+TEL;TYPE=WORK,VOICE:+302106148618
+TEL;TYPE=CELL,VOICE:+306976811155
+EMAIL;TYPE=INTERNET:n.kritikou@lamaris.gr
+ADR;TYPE=WORK:;;172 Kifissias Ave.;Maroussi;;;Greece
+URL:https://www.lamaris.gr
+END:VCARD
