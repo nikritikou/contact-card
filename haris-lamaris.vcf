@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+
+FN:Haris Lamaris
+N:Lamaris;Haris;;;
+
+ORG:Haris P. Lamaris & Associates
+TITLE:Civil - Geotechnical Engineer
+
+TEL;TYPE=WORK,VOICE:+302106148618
+TEL;TYPE=CELL,VOICE:+306944429629
+
+EMAIL;TYPE=INTERNET:haris@lamaris.gr
+
+ADR;TYPE=WORK:;;172 Kifissias Ave.;Maroussi;;15126;Greece
+
+URL:https://www.lamaris.gr
+
+END:VCARD
