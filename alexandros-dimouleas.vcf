@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+
+FN:Alexandros Dimouleas
+N:Dimouleas;Alexandros;;;
+
+ORG:Haris P. Lamaris & Associates
+TITLE:Geologist
+
+TEL;TYPE=CELL,VOICE:+306944360441
+TEL;TYPE=WORK,VOICE:+302106148618
+
+EMAIL;TYPE=INTERNET:a.dimouleas@lamaris.gr
+
+ADR;TYPE=WORK:;;172 Kifissias Ave.;Maroussi;;15126;Greece
+
+URL:https://www.lamaris.gr
+
+END:VCARD
